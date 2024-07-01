@@ -1,6 +1,6 @@
 ![banner](https://raw.githubusercontent.com/tomfran/typo/main/images/banner-light.png)
 
-# Typo, a Hugo theme.
+# Typo.
 
 Typo is a theme backed by simplicity, as you can see in the screenshots below. The goal was to have a website centered around content and nothing more.
 
